@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: white;
+}
+.asd{
+    font-size: 40px;
+}
+body{
+    background-color: grey;
+    color: white;
+}
+ul{
+    font-size: 20px;
+}
+ol{
+    font-size: 20px;
+}
+img{
+    border-radius: 20px;
+    height: 250px;
+    width: 450px;
+    float: right;
+}
